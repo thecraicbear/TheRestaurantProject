@@ -6,7 +6,6 @@
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: medium;
 	border: thick double #f1dca7;
-	border-radius: 3px;
 	height:590px;
 	width: 150px;
 	position:absolute;
@@ -14,7 +13,6 @@
 	color: #f1dca7;
 	}
 	
-
 .menuContainer ul { 
 	display: block;
 }
@@ -52,9 +50,7 @@
 	display: block;
 	cursor:pointer;
 }
-	
-
-
+					
 		
 </style>
 
@@ -67,23 +63,17 @@
 <ul>
 	<li>Menu
 	<ul>
-		<li>Food</li>
-		<li>Drinks</li>
+		<li><a href="Menu_Food.php">Food</a></li>
+		<li><a href="Menu_Drinks.php">Drinks</a></li>
 	</ul>
 	</li>
-	<li>Reservations</li>
-	<li>Events</li>
-	<li>Find Us</li>
+	<li><a href="Reservations.php">Reservations</a></li>
+	<li><a href="Events.php">Events</a></li>
+	<li><a href="Find_us.php">Find Us</a></li>
 </ul>
 
 
-
-
-
-
-
 </div>
-
 
 
 </body>
