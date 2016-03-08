@@ -21,34 +21,33 @@
 	display: block;	
 }
 
-.menuContainer ul li ul {
-	
-	display: none;	
-	background: #4d4d4d;
-	color: black;
+.menuContainer ul li ul {		
+	display: block;	
 }
 
-.menuContainer ul li ul li {	
-	color: #f1dca7;
+.menuContainer ul li ul li {
 	font-weight: normal;
 }
 
-.menuContainer ul li:hover {
-	background:#f1dca7 ;
-	color: #4d4d4d;
-	cursor:pointer;
-
+.menuContainer ul li:hover {	
+	color: white;
+	cursor:pointer;	
 }
 
 .menuContainer ul li ul li:hover {
-	background:#f1dca7;
-	color: #4d4d4d;
+	color: white;
 	cursor:pointer;
+	text-decoration:underline;
 }
 
-.menuContainer ul li:hover ul {
-	display: block;
-	cursor:pointer;
+a {
+  color:inherit;
+  text-decoration: none;
+ }
+ 
+.menuContainer iframe {
+	padding-top:320px;
+	padding-left:20px;
 }
 					
 		
@@ -59,18 +58,21 @@
 <body>
 
 <div class="menuContainer">
-
 <ul>
-	<li>Menu
-	<ul>
-		<li><a href="Menu_Food.php">Food</a></li>
+	<li>Menus	
+	<ul>						
+		<li><a href="Menu_Food.php">Food</a></li>		
 		<li><a href="Menu_Drinks.php">Drinks</a></li>
+		
 	</ul>
 	</li>
 	<li><a href="Reservations.php">Reservations</a></li>
 	<li><a href="Events.php">Events</a></li>
 	<li><a href="Find_us.php">Find Us</a></li>
 </ul>
+
+<iframe src="http://free.timeanddate.com/clock/i53mwibw/n1364/szw110/szh110/hoc000/hbw2/hfcf1dca7/cf100/hnce1ead6/hwcf1dca7/hccf1dca7/hcw2/hcd100/fav0/fiv0/mqc000/mqs3/mql25/mqw2/mqd96/mhc000/mhs3/mhl20/mhw2/mhd96/mmc000/mms3/mml5/mmw2/mmd96/hhs2/hhw8/hms2/hmw8/hmr4/hss3/hsl90" frameborder="0" width="110" height="110"></iframe>
+
 
 
 </div>
