@@ -61,6 +61,7 @@
 <div class="menuContainer">
 
 <ul>
+	<li><a href="Home.php">Home</a></li>
 	<li>Menu
 	<ul>
 		<li><a href="Menu_Food.php">Food</a></li>
