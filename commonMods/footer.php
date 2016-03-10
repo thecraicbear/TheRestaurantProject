@@ -8,12 +8,13 @@
 	font-size: medium;
 	border: thick double #f1dca7;
 	margin: 13px;
+	height: 210px;
 	width: inherit;
 	margin-left: 100px;
 	margin-right: 100px;
 	padding-top: 5px;
 	padding-right: 5px;
-	padding-bottom: 210px;
+	
 	padding-left: 5px;
 }
 .google_map {
@@ -27,8 +28,10 @@
 .opening_times {
 	font-family: Broadway;
 	font-size: x-large;
-	float: left;
 	color: #f1dca7;
+	text-align: center;
+	padding-right: 50px;
+	float:left;
 }
 
 </style>
@@ -44,9 +47,9 @@
   	
 <p  	class="opening_times">
 	<strong>Opening Times</strong><br>
-	Monday-Friday Lunch 12:00-14:30<br>
-	Monday-Saturday Dinner 17:00-22:00<br>
-	Sunday 13:00-21:00<br>
+	Monday-Friday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch&nbsp;&nbsp;&nbsp; 12:00-14:30<br>
+	Monday-Saturday&nbsp;&nbsp; Dinner&nbsp;&nbsp;&nbsp; 17:00-22:00<br>
+	Sunday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13:00-21:00<br>
 	</p>
 	</div>
 
