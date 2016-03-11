@@ -9,8 +9,8 @@
 	border: thick double #f1dca7;
 	margin: 13px;
 	width: inherit;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 150px;
+	margin-right: 150px;
 	padding-top: 5px;
 	padding-right: 5px;
 	padding-bottom: 210px;

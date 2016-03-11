@@ -3,13 +3,13 @@
 <style type="text/css">
 
 .menuContainer {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Calibri;
 	font-size: medium;
 	border: thick double #f1dca7;
-	height:590px;
+	height:450px;
 	width: 150px;
 	position:absolute;
-	margin-left:100px;
+	margin-left:150px;
 	color: #f1dca7;
 	}
 	
@@ -46,7 +46,7 @@ a {
  }
  
 .menuContainer iframe {
-	padding-top:320px;
+	padding-top:180px;
 	padding-left:20px;
 }
 					

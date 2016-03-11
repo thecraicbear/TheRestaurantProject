@@ -9,8 +9,8 @@
 	padding: 20px;
 	width: inherit;
 	margin: 3px;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 150px;
+	margin-right: 150px;
 	color: #f1dca7;
 
 
