@@ -17,6 +17,7 @@ body{
 	background-color:#4d4d4d;
 }
 
+
 </style><!--end main style-->
 
 
@@ -50,6 +51,7 @@ body{
 
 <div class="content_Index"> <!--content class-->
 	<?php include "commonMods/content_Index.php"; ?> <!--mod import-->
+	
 
 </div>
 

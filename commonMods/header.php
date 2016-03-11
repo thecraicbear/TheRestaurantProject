@@ -22,11 +22,14 @@
 
 <div class="headerContainer">
 
-The
+	<a href="Home.php">The
 <br>
 Restaurant Project
 <br>
 <font size="6" face="Brush Script MT">"an experience..."</font>
+
+
+</a>
 
 
 </div>
