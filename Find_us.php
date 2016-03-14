@@ -49,7 +49,7 @@ body{
 
 
 <div class="content_Index"> <!--content class-->
-	<?php include "commonMods/content_Index.php"; ?> <!--mod import-->
+	<?php include "commonMods/content_Find_us.php"; ?> <!--mod import-->
 
 </div>
 
