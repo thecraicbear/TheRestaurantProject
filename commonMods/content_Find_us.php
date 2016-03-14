@@ -45,6 +45,7 @@ range of food and drink and relax after a day of shopping or before a production
 <br><br>
 We are within walking distance of 2 of the major tube stations, Leicester Square and Covent Garden 
 itself, as well as multiple bus stations. They all offer efficient services until late, so take your time!
+
 </p><!--end events paragraph-->
 
 <iframe class ="googlemap" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19864.64710192255!2d-0.12327!3d51.51173200000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604cb878e81b3%3A0x91f10fa364452046!2sCovent+Garden%2C+London+WC2E%2C+UK!5e0!3m2!1sen!2suk!4v1457958838489"
